@@ -6,7 +6,7 @@ import java.util.Scanner;
  * * * @author Trannie
  */
 public class PogiLabidabs2 {
-// HGELLO
+// HELLO
     /**
      * * @param args the command line arguments
      */
